@@ -1,7 +1,7 @@
 @font-face 
 {
 	font-family: Titulo;
-	src: url(fontes/ANODETONOONE.TTF);
+	src: url(ANODETONOONE.TTF);
 }
 
 h1 
@@ -14,7 +14,7 @@ h1
 
 body 
 {
-	background-image: url(img/fundo.jpg);
+	background-image: url(fundo.jpg);
 }
 
 
@@ -32,7 +32,7 @@ body
 {
 	width: 950px;
 	height: 630px;
-	background-image: url(img/fundo_game.jpg);
+	background-image: url(fundo_game.jpg);
 	border-color: #FFF;
 	border-style: solid;
 }
@@ -44,7 +44,7 @@ body
 	position: absolute;
 	left: 8px;
 	top: 179px;
-    background-image: url(img/apache.png);
+    background-image: url(apache.png);
 }
 
 #inimigo1 
@@ -54,7 +54,7 @@ body
 	position: absolute;
 	left: 689px;
 	top: 253px;
-	background-image: url(img/inimigo1.png);
+	background-image: url(inimigo1.png);
 }
 
 #inimigo2 
@@ -64,7 +64,7 @@ body
 	position: absolute;
 	left: 775px;
 	top: 447px;
-	background-image: url(img/inimigo2.png);
+	background-image: url(inimigo2.png);
 }
 
 #amigo 
@@ -74,7 +74,7 @@ body
 	position: absolute;
 	left: 10px;
 	top: 464px;
-	background-image: url(img/amigo.png);
+	background-image: url(amigo.png);
 }
 
 #inicio 
@@ -100,7 +100,7 @@ ul
 
 .anima1 
 {
-	background-image: url(img/helicoptero.png);
+	background-image: url(helicoptero.png);
     animation: play .5s steps(2) infinite;
     -webkit-animation: play .5s steps(2) infinite;
     -moz-animation: play .5s steps(2) infinite;
@@ -140,7 +140,7 @@ ul
 
  .anima2 
  {
-    background-image:url(img/inimigo1.png);
+    background-image:url(inimigo1.png);
     animation: play .5s steps(2) infinite;
     -webkit-animation: play .5s steps(2) infinite;
     -moz-animation: play .5s steps(2) infinite;
@@ -150,7 +150,7 @@ ul
 
 .anima3 
 {
-	background-image:url(img/amigo.png);
+	background-image:url(amigo.png);
 	animation:play2 .9s steps(12) infinite;
     -webkit-animation: play2 .9s steps(12) infinite;
     -moz-animation: play2 .9s steps(12) infinite;
@@ -193,7 +193,7 @@ ul
 	width: 50px;
 	height: 8px;
 	position: absolute;
-	background-image: url(img/disparo.png);
+	background-image: url(disparo.png);
 }
 
 #explosao1 
@@ -221,7 +221,7 @@ ul
 {
 	width: 44px;
 	height: 51px;
-	background-image: url(img/amigo_morte.png);
+	background-image: url(amigo_morte.png);
 	animation: play3 .5s steps(7) infinite;
 	-webkit-animation: play3 .5s steps(7) infinite;
 	-moz-animation: play3 .5s steps(7) infinite;
