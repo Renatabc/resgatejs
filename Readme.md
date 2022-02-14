@@ -42,3 +42,5 @@ As seguintes ferramentas foram utilizadas na construção dessa atividade:
 [![Outlook Badge](https://img.shields.io/badge/-renatabc12@outlook.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:renatabc12@outlook.com)](mailto:renatabc12@outlook.com)
 
 ## Licença
+
+https://github.com/Renatabc/resgatejs/blob/master/LICENSE
